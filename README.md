@@ -1,5 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=steinbukken7321.steinbukken7321" />
 
+###
+
+<div align="center">
+  <img height="320" src="https://github.com/steinbukken7321/steinbukken7321/assets/83385968/f4af9eb0-5904-44ae-bb36-154f79b60b7f"  />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Rafael+Ziani+de+Carvalho!;" />
 </h1>
@@ -30,7 +36,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="center"> Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
@@ -41,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2> **snk** </h2>
+  <h2> SNK 🐍 </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake.svg" />
   
@@ -50,7 +56,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats ⚡</h2>
 <br>
 
 <div align="center">
@@ -58,6 +64,10 @@
   <img src="https://streak-stats.demolab.com?user=steinbukken7321&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5" height="143" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steinbukken7321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="130" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="250" src="https://github.com/steinbukken7321/steinbukken7321/assets/83385968/412b9150-ed0d-4ae3-8416-e0f4dfcf0029"  />
 
 ###
 
@@ -73,18 +83,6 @@
   <a href="https://www.linkedin.com/in/rafael-ziani-de-carvalho-a4546723a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="145" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
