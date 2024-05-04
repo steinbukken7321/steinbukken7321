@@ -36,7 +36,7 @@
 
  <hr/>
  
-<h2 align="center"> Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="center"> ⚒️ Languages - Frameworks - Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2> SNK 🐍 </h2>
+  <h2> 🐍 SNK  </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake.svg" />
   
@@ -56,17 +56,21 @@
 
 <hr/>
 
-<h2 align="center"> Stats ⚡</h2>
+<h2 align="center"> 📊 GitHub Stats: </h2>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=steinbukken7321&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5" height="143" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steinbukken7321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=steinbukken7321&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="143" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steinbukken7321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+  <img src=https://github-contributor-stats.vercel.app/api?username=steinbukken7321&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" height="250" alt="stats graph"/>
+</div>
 
+
+---
 <img align="right" height="250" src="https://github.com/steinbukken7321/steinbukken7321/assets/83385968/412b9150-ed0d-4ae3-8416-e0f4dfcf0029"  />
 
 ###
