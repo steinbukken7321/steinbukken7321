@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=steinbukken7321.steinbukken7321" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafael+Ziani+de+Carvalho!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Rafael+Ziani+de+Carvalho!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> **snk** </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake.svg" />
   
@@ -59,12 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steinbukken7321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
-<br/>
-
-###
-
-<img align="right" height="145" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -79,6 +73,18 @@
   <a href="https://www.linkedin.com/in/rafael-ziani-de-carvalho-a4546723a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="145" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
