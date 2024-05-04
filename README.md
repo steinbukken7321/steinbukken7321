@@ -10,11 +10,11 @@
 
 <div align="center">
  
-📚 I’m currently studying on **UFSM**
+📚 I’m currently studying telecommunications engineering on **[UFSM](https://www.ufsm.br/) - Brazil**
  
 📖 I’m currently learning **Neural Networks, Python, C and Teleccomunication systems**
 
-💬 if you want to talk to me - [here](https://github.com/steinbukken7321/steinbukken7321/issues)**
+💬 if you want to talk to me - **[here](https://github.com/steinbukken7321/steinbukken7321/issues)**
 
 
  </div>
