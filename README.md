@@ -49,8 +49,7 @@
 <div align="center">
   <h2> 🐍 SNK  </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake-vision-friendly-dark.svg" 
 </div>
 
 <hr/>
