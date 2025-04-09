@@ -60,7 +60,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="250" alt="stats graph"  />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=steinbukken7321&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="143" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steinbukken7321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="130" alt="languages graph"  />
 </div>
