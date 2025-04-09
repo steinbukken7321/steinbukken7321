@@ -81,9 +81,9 @@
   <a href="https://www.instagram.com/rafael_zcarvalho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-<span style="background-color: #D14836; color: white; padding: 8px 12px; border-radius: 8px; font-family: sans-serif;">
-  📧 rafael.ziani1@gmail.com
-</span>
+<a href="#" onclick="navigator.clipboard.writeText('rafael.ziani1@gmail.com'); alert('Email copiado!')">
+  <img src="https://img.shields.io/static/v1?message=Copiar Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
   <a href="https://www.linkedin.com/in/rafael-ziani-de-carvalho-a4546723a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
