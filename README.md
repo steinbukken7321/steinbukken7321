@@ -47,12 +47,11 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 SNK - Contributions Snake</h2>
-  <img 
-    src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/dist/github-contribution-grid-snake.gif?raw=true" 
-    alt="Snake animation showing GitHub contributions"
-  />
-</div>
+   <h2> 🐍 SNK  </h2>
+   <br>
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake.svg" />
+   <br/><br/><br/>
+ </div>
 
 <hr/>
 
