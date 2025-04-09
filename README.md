@@ -52,6 +52,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steinbukken7321/steinbukken7321/output/github-contribution-grid-snake-vision-friendly-dark.svg" 
 </div>
 
+![Snake animation](https://github.com/rafaelziani/rafaelziani/blob/output/github-contribution-grid-snake.gif?color_snake=#FFD700&color_dots=#1e1e1e,#302240,#6b2fb3,#a470ff,#ffdd80)
+
+
 <hr/>
 
 <h2 align="center"> 📊 GitHub Stats: </h2>
