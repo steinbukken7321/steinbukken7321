@@ -58,12 +58,12 @@
 
 <h2 align="center"> 📊 GitHub Stats: </h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steinbukken7321&theme=dracula" height="190" alt="GitHub Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steinbukken7321&theme=tokyonight" height="250" alt="GitHub Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steinbukken7321&theme=dracula" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steinbukken7321&theme=dracula" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steinbukken7321&theme=tokyonight" height="220" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steinbukken7321&theme=tokyonight" height="220" />
 </div>
 
 
