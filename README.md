@@ -56,15 +56,29 @@
 
 <hr/>
 
-<h2 align="center"> 📊 GitHub Stats: </h2>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steinbukken7321&theme=tokyonight" height="250" alt="GitHub Details" />
-</div>
+<h2 align="center"> 📊 Meus Status do GitHub </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steinbukken7321&theme=tokyonight" height="220" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steinbukken7321&theme=tokyonight" height="220" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinbukken7321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=steinbukken7321&theme=tokyonight&hide_border=true&background=0D1117" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ---
