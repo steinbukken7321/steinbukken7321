@@ -62,18 +62,18 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinbukken7321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" width="450" />
       </td>
     </tr>
+  </table>
+
+  <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=steinbukken7321&theme=tokyonight&hide_border=true&background=0D1117" width="400" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=steinbukken7321&theme=react&hide_border=true&background=0D1117" width="450" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinbukken7321&theme=react&hide_border=true&bg_color=0D1117&count_private=true" width="300" />
       </td>
     </tr>
   </table>
