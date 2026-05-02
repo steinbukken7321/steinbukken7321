@@ -62,7 +62,7 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=steinbukken7321&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" width="450" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=steinbukken7321&theme=react&bg_color=0D1117&hide_border=true" width="780" />
       </td>
     </tr>
   </table>
