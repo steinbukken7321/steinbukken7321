@@ -56,27 +56,12 @@
 
 <hr/>
 
-<h2 align="center"> 📊 Meus Status do GitHub </h2>
+<h2 align="center"> 📊 Status do GitHub </h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=steinbukken7321&theme=react&bg_color=0D1117&hide_border=true" width="780" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=steinbukken7321&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&rank_color=00FFFF" width="500" alt="GitHub Stats" />
 
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=steinbukken7321&theme=react&hide_border=true&background=0D1117" width="450" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinbukken7321&theme=react&hide_border=true&bg_color=0D1117&count_private=true" width="300" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steinbukken7321&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="500" alt="Streak Stats" />
 </div>
 
 
