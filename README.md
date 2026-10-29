@@ -58,13 +58,10 @@
 
 <h2 align="center"> 📊 Status do GitHub </h2>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=steinbukken7321&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&rank_color=00FFFF" width="50%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=steinbukken7321&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF" width="42%" alt="Top Languages" />
-  </p>
-</div>
 
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=steinbukken7321&theme=dark&hide_border=true&card_width=850"/>
+</div>
 
 
 ---
